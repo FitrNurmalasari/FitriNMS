@@ -1,1 +1,6 @@
 Pesan dari branch 1
+
+Menggabungkan
+
+Pesan dari branch 2
+
